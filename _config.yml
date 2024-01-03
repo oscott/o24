@@ -1,7 +1,7 @@
 title: o2244
 author: oL
 url: https://koe.pt
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/o24" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: √
 
 permalink: /:slug.html
