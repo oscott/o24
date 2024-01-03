@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Archivals
+title: Archive
 which_category: name-of-category
 ---
