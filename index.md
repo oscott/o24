@@ -1,5 +1,5 @@
 ---
 layout: home
 ---
-
-<sub><sup>Agree to T&C before looking</sub></sup>
+{{site.pages}}
+<sub><sup>Agree to T&C before looking</sup></sub>
