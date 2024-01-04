@@ -2,6 +2,4 @@
 layout: home
 ---
 
-{{site.posts}}
-
-Agree to T&C before looking
+<sub><sup>Agree to T&C before looking</sub></sup>
