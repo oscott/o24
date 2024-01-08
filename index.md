@@ -3,7 +3,7 @@ layout: home
 ---
 
 <ul>
-{% for page in site.pages %}  
+{% for page in site.html_pages %}  
     <li>
         <a href="{{ page.url }}"> {{ page.title }}</a>
     </li>  
